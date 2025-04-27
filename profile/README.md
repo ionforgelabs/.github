@@ -22,7 +22,6 @@ Our mission is simple:
 ## Current Projects
 
 - 🎮 **LuminaryEngine** — a lightweight, high-performance game engine built for speed, flexibility, and creativity.
-- 🚀 **[Other Project Name]** — *(Coming soon...)*
 
 We're expanding into new frontiers — from custom development kits to full-scale gaming experiences.
 
